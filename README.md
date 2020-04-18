@@ -1,4 +1,4 @@
-# Rock-Paper_Scissors-PHP
+# Rock Paper Scissors (PHP + Bootstrap)
 
 Rock Paper Scissors game with PHP and Bootstrap.
 
