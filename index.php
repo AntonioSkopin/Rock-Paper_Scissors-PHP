@@ -2,7 +2,7 @@
 
 /*
  * Author: Antonio Skopin
- * Date: 18th april
+ * Date: 18th of april 2020
  */
 
 ?>
